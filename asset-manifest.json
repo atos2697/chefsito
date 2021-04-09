@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chefsito/static/css/main.f8b35643.chunk.css",
+    "main.js": "/chefsito/static/js/main.d240d4a0.chunk.js",
+    "main.js.map": "/chefsito/static/js/main.d240d4a0.chunk.js.map",
+    "runtime-main.js": "/chefsito/static/js/runtime-main.2b58f9ec.js",
+    "runtime-main.js.map": "/chefsito/static/js/runtime-main.2b58f9ec.js.map",
+    "static/js/2.e3b5f223.chunk.js": "/chefsito/static/js/2.e3b5f223.chunk.js",
+    "static/js/2.e3b5f223.chunk.js.map": "/chefsito/static/js/2.e3b5f223.chunk.js.map",
+    "static/js/3.8b86367a.chunk.js": "/chefsito/static/js/3.8b86367a.chunk.js",
+    "static/js/3.8b86367a.chunk.js.map": "/chefsito/static/js/3.8b86367a.chunk.js.map",
+    "index.html": "/chefsito/index.html",
+    "static/css/main.f8b35643.chunk.css.map": "/chefsito/static/css/main.f8b35643.chunk.css.map",
+    "static/js/2.e3b5f223.chunk.js.LICENSE.txt": "/chefsito/static/js/2.e3b5f223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b58f9ec.js",
+    "static/js/2.e3b5f223.chunk.js",
+    "static/css/main.f8b35643.chunk.css",
+    "static/js/main.d240d4a0.chunk.js"
+  ]
+}
